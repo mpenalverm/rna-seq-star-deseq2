@@ -11,15 +11,15 @@ units: units.tsv
 
 trimming:
   # skip trimming: false or true
-  skip: false
+  skip: true
   # the sequencing adapter
   adapter: ACGGATCGATCGATCGATCGAT
 
 ref:
   # the STAR index
-  index: "path/to/star/index"
+  index: "data/STAR_index/EGDeSTAR"
   # gtf file with transcripts
-  annotation: "path/to/annotation.gtf"
+  annotation: "data/STAR_index/EGDe.gtf"
 
 pca:
   labels:
@@ -29,11 +29,11 @@ pca:
 diffexp:
   # contrasts for the deseq2 results method
   contrasts:
-    treated-vs-untreated:
-      - treated
+    120hours-vs-untreated:
+      - 120hours
       - untreated
 
 params:
-  star: ""
+  star: "--outSAMtype BAM Unsorted"
   cutadapt-se: ""
   cutadapt-pe: ""
