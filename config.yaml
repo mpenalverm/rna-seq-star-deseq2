@@ -32,6 +32,9 @@ diffexp:
     120hours-vs-untreated:
       - 120hours
       - untreated
+    4hours-vs-untreated:
+      - 4hours
+      - untreated
 
 params:
   star: "--outSAMtype BAM Unsorted"

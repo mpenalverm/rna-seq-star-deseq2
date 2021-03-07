@@ -1,3 +1,7 @@
 sample	unit	fq1	fq2
 k0H_1	lane1	data/samples/k0H_1_1.fq.gz	data/samples/k0H_1_2.fq.gz
+k0H_2	lane3	data/samples/k0H_2_1.fq.gz	data/samples/k0H_2_2.fq.gz
 k120H_1	lane2	data/samples/k120H_1_1.fq.gz	data/samples/k120H_1_2.fq.gz
+k120H_2	lane4	data/samples/k120H_2_1.fq.gz	data/samples/k120H_2_2.fq.gz
+k4H_1	lane5	data/samples/k4H_1_1.fq.gz	data/samples/k4H_1_2.fq.gz
+k4H_2	lane6	data/samples/k4H_2_1.fq.gz	data/samples/k4H_2_2.fq.gz
