@@ -29,11 +29,17 @@ pca:
 diffexp:
   # contrasts for the deseq2 results method
   contrasts:
-    120hours-vs-untreated:
-      - 120hours
-      - untreated
     4hours-vs-untreated:
       - 4hours
+      - untreated
+    24hours-vs-untreated:
+      - 24hours
+      - untreated
+    48hours-vs-untreated:
+      - 48hours
+      - untreated
+    120hours-vs-untreated:
+      - 120hours
       - untreated
 
 params:
