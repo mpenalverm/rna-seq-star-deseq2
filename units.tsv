@@ -5,7 +5,7 @@ k120H_1	lane3	data/samples/k120H_1_1.fq.gz	data/samples/k120H_1_2.fq.gz
 k120H_2	lane4	data/samples/k120H_2_1.fq.gz	data/samples/k120H_2_2.fq.gz
 k24H_1	lane5	data/samples/k24H_1_1.fq.gz	data/samples/k24H_1_2.fq.gz
 k24H_2	lane6	data/samples/k24H_2_1.fq.gz	data/samples/k24H_2_2.fq.gz
-k4H_1	lane7	data/samples/k4H_1_1.fq.gz	data/samples/k4H_1_2.fq.gz
-k4H_2	lane8	data/samples/k4H_2_1.fq.gz	data/samples/k4H_2_2.fq.gz
 k48H_1	lane9	data/samples/k48H_1_1.fq.gz	data/samples/k48H_1_2.fq.gz
 k48H_2	lane10	data/samples/k48H_2_1.fq.gz	data/samples/k48H_2_2.fq.gz
+k4H_1	lane7	data/samples/k4H_1_1.fq.gz	data/samples/k4H_1_2.fq.gz
+k4H_2	lane8	data/samples/k4H_2_1.fq.gz	data/samples/k4H_2_2.fq.gz
